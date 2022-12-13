@@ -3,7 +3,7 @@ Few interesting projects to try out creative coding using Processing and PureDat
 
 Skills Obtained:
 
-Image Processing Algorithms (Pixellation, Pointillism, Grayscale, Mirroring, Negative, Rasterization, etc)
+Image Processing Algorithms (Pixellation, Pointillism, Grayscale, Mirroring, Applying Filters, Rasterization, etc)
 
 Audio Processing (FFT analysis, Peak Amplitude Analysis, etc.)
 
