@@ -1,4 +1,3 @@
-// Example 14-16: Simple solar system
 
 // Angle of rotation around sun and planets
 float theta = 0;
