@@ -1,6 +1,6 @@
 # Processing 4
 
-Programs Written For Multimedia Programming and Desgn
+Programs/Assignmetns Written For Course Multimedia Programming and Design (CS276)
 Few interesting projects to try out creative coding using Processing and PureData
 
 Skills Obtained:
