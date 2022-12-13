@@ -1,0 +1,16 @@
+#N canvas 765 209 450 362 12;
+#X obj 59 68 bng 19 250 50 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000;
+#X obj 59 95 random 800;
+#X floatatom 59 154 5 0 0 0 - - - 0;
+#X obj 59 124 + 200;
+#X obj 59 186 osc~;
+#X obj 59 215 *~ 0.7;
+#X obj 59 251 voutput~;
+#X text 55 19 ROSHAN POUDEL - RANDOM MELODY Part4 Q1;
+#X connect 0 0 1 0;
+#X connect 1 0 3 0;
+#X connect 2 0 4 0;
+#X connect 3 0 2 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;
+#X connect 5 0 6 1;
