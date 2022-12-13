@@ -1,7 +1,7 @@
 # Processing 4
 
 Programs/Assignmetns Written For Course Multimedia Programming and Design (CS276)
-Few interesting projects to try out creative coding using Processing and PureData
+Every files linked in this repository is executable on Processing 4 given that all the required libraries are installed and the files are loaded properly.
 
 Skills Obtained:
 
