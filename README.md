@@ -7,6 +7,8 @@ Skills Obtained:
 
 Image Processing Algorithms (Pixellation, Pointillism, Grayscale, Mirroring, Applying Filters, Rasterization, etc)
 
+Typography
+
 Audio Processing (FFT analysis, Peak Amplitude Analysis, etc.)
 
 P3D (Building 3D objects and shapes, syncing them with audio amplitude, and so on)
