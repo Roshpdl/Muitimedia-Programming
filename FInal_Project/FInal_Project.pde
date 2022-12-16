@@ -57,7 +57,7 @@ void draw()
 {
   //Laying out environment for rasterization
   background(0);
-  fill(255);
+  //fill(255);
   //noStroke();
   //sphereDetail(3);
   float num_tiles = map(mouseX, 0, width, 20, 250); //You can also use mouse x or mouse y to determine the number of tiles
@@ -95,7 +95,7 @@ void draw()
       translate(x*tileSize - width/2, y*tileSize - height/2, z);//3D
       //ellipse(0, 0, tileSize*b, tileSize*b);
       //box(tileSize*b*(rms_scaled/800));
-      //fill(c);
+      fill(c);
       sphere(tileSize*b*(rms_scaled/800));
       pop();     
     }
